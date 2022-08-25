@@ -29,7 +29,7 @@ body{
 .card{
     outline: 1px solid red;
     margin: 0 auto;
-    background-color: ;
+    background-color: white;
 }
 #userPersona{
     margin: 15%;
