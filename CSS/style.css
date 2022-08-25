@@ -1,0 +1,58 @@
+h1, h2, h3, h4, h5, h6, li, p, button {
+    font-family: 'Albert Sans', sans-serif;
+}
+h1{
+    font-size: 3em;
+}
+body{
+    background-color: #E9E2D0;
+}
+.nav{
+    outline: 1px solid red;
+}
+.jumbotron{
+    outline: 1px solid red;
+}
+#cwwcHero{
+    background-image: url(../images/White\ Wolf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 0 auto;
+}
+#cwwcHeader{
+    text-align: center;
+    position: relative;
+    bottom: -60%;
+}
+.card{
+    outline: 1px solid red;
+    margin: 0 auto;
+    background-color: ;
+}
+#userPersona{
+    margin: 15%;
+}
+#problemStatement{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 2em;
+}
+.carousel{
+    outline: 1px solid red;
+}
+#projectDetails{
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.media{
+    outline: 1px solid red; 
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px;
+}
+#problemStatement{
+    background-color: #969080;
+}
